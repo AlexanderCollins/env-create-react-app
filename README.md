@@ -8,13 +8,13 @@ For those using create-react-app wishing to refrence their .env variables withou
 ## Usage
 
 ### Your .env file
-`
+```
 REACT_APP_MY_ENVIRONMENT_VARIABLE_A=foo
 REACT_APP_MY_ENVIRONMENT_VARIABLE_B=bar
-`
+```
 
 ### Example
-`
+```
 import {
     MY_ENVIRONMENT_VARIABLE_A,
     MY_ENVIRONMENT_VARIABLE_B
@@ -23,11 +23,11 @@ import {
 // available in scope.
 console.log(MY_ENVIRONMENT_VARIABLE_A);
 console.log(MY_ENVIRONMENT_VARIABLE_B);
-`;
+```;
 
 ### Output
-`
+```
 foo
 bar
-`
+```
 
