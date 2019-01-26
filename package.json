@@ -4,7 +4,7 @@
   "description": "create-react-app import environment variables helper without REACT_APP prefix helper.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "env-cmd ./.env.test ./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -30,7 +30,6 @@
     "mocha": "^5.2.0"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "env-cmd": "^8.0.2"
+    "chai": "^4.2.0"
   }
 }
