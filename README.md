@@ -3,7 +3,7 @@ For those using **create-react-app** wishing to refrence their .env file variabl
 
 ## Usage
 
-### Your .env file	
+### .env file	
 ~~~~
 REACT_APP_MY_ENVIRONMENT_VARIABLE_A=foo
 REACT_APP_MY_ENVIRONMENT_VARIABLE_B=bar
