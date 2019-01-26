@@ -1,0 +1,36 @@
+{
+  "name": "env-create-react-app",
+  "version": "1.0.0",
+  "description": "create-react-app import environment variables helper without REACT_APP prefix helper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderCollins/env-create-react-app.git"
+  },
+  "keywords": [
+    "environment",
+    "create",
+    "react",
+    "app",
+    "dotenv",
+    "import",
+    "REACT_APP"
+  ],
+  "author": "Alexander W. Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderCollins/env-create-react-app/issues"
+  },
+  "homepage": "https://github.com/AlexanderCollins/env-create-react-app#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "env-cmd": "^8.0.2"
+  }
+}
