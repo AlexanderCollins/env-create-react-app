@@ -1,7 +1,4 @@
 # env-create-react-app [![Build Status](https://travis-ci.com/AlexanderCollins/env-create-react-app.svg?branch=master)](https://travis-ci.com/AlexanderCollins/env-create-react-app)
-create-react-app import environment variables helper without REACT_APP prefix helper.
-
-
 For those using create-react-app wishing to refrence their .env variables without the REACT_APP prefix.
 
 ## Usage
