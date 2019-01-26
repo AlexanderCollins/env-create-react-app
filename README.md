@@ -15,4 +15,13 @@ import {
     MY_ENVIRONMENT_VARIABLE_A,
     MY_ENVIRONMENT_VARIABLE_B
 } from 'env-create-react-app';
+
+console.log(MY_ENVIRONMENT_VARIABLE_A);
+console.log(MY_ENVIRONMENT_VARIABLE_B);
+~~~~
+
+### Output
+~~~~
+foo
+bar
 ~~~~
