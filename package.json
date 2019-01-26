@@ -1,6 +1,6 @@
 {
   "name": "env-create-react-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "create-react-app import environment variables helper without REACT_APP prefix helper.",
   "main": "index.js",
   "scripts": {
